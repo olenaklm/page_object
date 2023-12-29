@@ -5,6 +5,7 @@
     <test name = "SimpleTest test name">
 
         <classes>
+            <class name="org.example.uitests.LoginTests"/>
 <!--            <class name = "org.example.uitests.WaitersTests"/>-->
 <!--            <class name = "org.example.uitests.WaitersTests"/>-->
 <!--            <class name = "ua.ithillel.testng.SeleniumTest"/>-->
